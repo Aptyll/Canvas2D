@@ -4,9 +4,9 @@
 
 ## How to Use
 
-1. Click the link provided by gitpages at the top of this repo
+- Click the link at the top of this repo
 
 ## Technical Details
 
-- Built with vanilla JavaScript
-- HTML5 Canvas for rendering (Go check out my 1 Million Particle Simulation called WebGL)
+- Built in Vanilla JavaScript
+- With HTML5 Canvas for Rendering
