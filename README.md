@@ -2,10 +2,6 @@
 
 ![Particle Simulation](photocanvas.png)
 
-## About This Project
-
-This is my First Ever Coding Project!
-
 ## How to Use
 
 1. Click the link provided by gitpages at the top of this repo
